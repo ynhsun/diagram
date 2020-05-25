@@ -1,1 +1,97 @@
-<mxfile host="app.diagrams.net" modified="2020-05-25T22:44:31.563Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" version="13.1.3" etag="9UGokm9_KvpsS3qUDNoU" type="github"><diagram id="g8jPLP87F3tHf9mI2dt4">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-05-25T23:00:54.705Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="E_GK1_KN6lg9xSpCQgTN" version="13.1.3" type="github">
+  <diagram id="g8jPLP87F3tHf9mI2dt4" name="Page-1">
+    <mxGraphModel dx="782" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jMICUoi-Dow1zu3_qoAf-29" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=16;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="235.5" width="430" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jMICUoi-Dow1zu3_qoAf-4" value="植被实测光谱" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="500" y="155" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jMICUoi-Dow1zu3_qoAf-5" value="卫星遥感影像" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="630" y="155" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jMICUoi-Dow1zu3_qoAf-6" value="其他数据源" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="757.5" y="155" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jMICUoi-Dow1zu3_qoAf-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="jMICUoi-Dow1zu3_qoAf-7" target="jMICUoi-Dow1zu3_qoAf-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jMICUoi-Dow1zu3_qoAf-7" value="植被指数" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;gradientColor=#ffd966;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="500" y="326" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jMICUoi-Dow1zu3_qoAf-8" value="特征波段" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="500" y="241.5" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jMICUoi-Dow1zu3_qoAf-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="jMICUoi-Dow1zu3_qoAf-9" target="jMICUoi-Dow1zu3_qoAf-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jMICUoi-Dow1zu3_qoAf-9" value="生态监测&lt;br&gt;植被指数" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;gradientColor=#ffd966;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="630" y="326" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jMICUoi-Dow1zu3_qoAf-10" value="潮间带生态监测植被指数" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;gradientColor=#ffd966;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="757.5" y="326" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jMICUoi-Dow1zu3_qoAf-12" value="背景效应" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="680" y="241.5" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jMICUoi-Dow1zu3_qoAf-13" value="大气影响" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="770" y="240.5" width="75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jMICUoi-Dow1zu3_qoAf-15" value="组合方式" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="590" y="241.5" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jMICUoi-Dow1zu3_qoAf-18" value="缺少针对翅碱蓬监测的植被指数" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;gradientColor=#ea6b66;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="500" y="416" width="370" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jMICUoi-Dow1zu3_qoAf-19" value="数&lt;br&gt;据" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="450" y="157" width="40" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="jMICUoi-Dow1zu3_qoAf-21" value="光谱分析" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="450" y="235.5" width="40" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="jMICUoi-Dow1zu3_qoAf-22" value="指数构建" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="450" y="320" width="40" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="jMICUoi-Dow1zu3_qoAf-23" value="不足" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="455" y="410" width="30" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="jMICUoi-Dow1zu3_qoAf-26" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=16;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="150" width="430" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jMICUoi-Dow1zu3_qoAf-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="jMICUoi-Dow1zu3_qoAf-29" target="jMICUoi-Dow1zu3_qoAf-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jMICUoi-Dow1zu3_qoAf-30" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=16;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="321" width="430" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jMICUoi-Dow1zu3_qoAf-31" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=16;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="410" width="430" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jMICUoi-Dow1zu3_qoAf-33" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=16;exitX=0.5;exitY=1;exitDx=0;exitDy=0;gradientColor=#b3b3b3;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1" source="jMICUoi-Dow1zu3_qoAf-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="380" as="sourcePoint" />
+            <mxPoint x="665" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jMICUoi-Dow1zu3_qoAf-35" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=16;exitX=0.5;exitY=1;exitDx=0;exitDy=0;gradientColor=#b3b3b3;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1" source="jMICUoi-Dow1zu3_qoAf-29" target="jMICUoi-Dow1zu3_qoAf-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="675" y="220" as="sourcePoint" />
+            <mxPoint x="675" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jMICUoi-Dow1zu3_qoAf-37" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=16;exitX=0.5;exitY=1;exitDx=0;exitDy=0;gradientColor=#b3b3b3;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1" source="jMICUoi-Dow1zu3_qoAf-30" target="jMICUoi-Dow1zu3_qoAf-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="685" y="230" as="sourcePoint" />
+            <mxPoint x="685" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jMICUoi-Dow1zu3_qoAf-38" value="..." style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;fontSize=16;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="850" y="267" width="30" height="23.5" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
