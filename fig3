@@ -1,1 +1,54 @@
-<mxfile host="app.diagrams.net" modified="2020-05-25T23:14:11.228Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" version="13.1.3" etag="qeGFgJBvnLpMxo2ftXDg" type="github"><diagram id="x70dgWXvRiarcwVIg66y">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-05-25T23:18:53.379Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="HM2hnxWPFOS_bU4vctoj" version="13.1.3" type="github">
+  <diagram id="x70dgWXvRiarcwVIg66y" name="Page-1">
+    <mxGraphModel dx="1303" dy="647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1Ys_IDjsuQ8LtfEaX5iV-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="280" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1Ys_IDjsuQ8LtfEaX5iV-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="1Ys_IDjsuQ8LtfEaX5iV-2" target="1Ys_IDjsuQ8LtfEaX5iV-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Ys_IDjsuQ8LtfEaX5iV-2" value="生态系统多稳态" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="90" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1Ys_IDjsuQ8LtfEaX5iV-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=16;" edge="1" parent="1" source="1Ys_IDjsuQ8LtfEaX5iV-3" target="1Ys_IDjsuQ8LtfEaX5iV-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="470" y="200" />
+              <mxPoint x="360" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1Ys_IDjsuQ8LtfEaX5iV-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="1Ys_IDjsuQ8LtfEaX5iV-6" target="1Ys_IDjsuQ8LtfEaX5iV-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Ys_IDjsuQ8LtfEaX5iV-3" value="稳态间转换" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="400" y="150" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1Ys_IDjsuQ8LtfEaX5iV-4" value="理论研究" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="1">
+          <mxGeometry x="310" y="220" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1Ys_IDjsuQ8LtfEaX5iV-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="1Ys_IDjsuQ8LtfEaX5iV-5" target="1Ys_IDjsuQ8LtfEaX5iV-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Ys_IDjsuQ8LtfEaX5iV-5" value="存在性验证" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="1">
+          <mxGeometry x="420" y="220" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1Ys_IDjsuQ8LtfEaX5iV-6" value="应用效果" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="1">
+          <mxGeometry x="530" y="220" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1Ys_IDjsuQ8LtfEaX5iV-10" value="国内研究相对落后" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;" vertex="1" parent="1">
+          <mxGeometry x="360" y="290" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1Ys_IDjsuQ8LtfEaX5iV-11" value="存在性验证不足" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;" vertex="1" parent="1">
+          <mxGeometry x="500" y="290" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1Ys_IDjsuQ8LtfEaX5iV-13" value="存在&lt;br&gt;问题" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;fontSize=15;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="310" y="290" width="50" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
