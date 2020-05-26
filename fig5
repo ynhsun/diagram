@@ -1,1 +1,349 @@
-<mxfile host="app.diagrams.net" modified="2020-05-25T23:35:01.105Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" version="13.1.3" etag="hcRTpiOCudp4fJXb9UGt" type="github"><diagram id="gaOWbInLjMPxkzqgmx4t">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-05-26T00:30:55.149Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="K3aC4Q0CdgiM44wsZq-z" version="13.1.3" type="github">
+  <diagram id="gaOWbInLjMPxkzqgmx4t" name="Page-1">
+    <mxGraphModel dx="2234" dy="1249" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="k7FDMH42Ti9SfzF2SLy9-104" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=16;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="420" width="730" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="k7FDMH42Ti9SfzF2SLy9-176" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;fontSize=15;fontColor=#009900;dashPattern=1 2;" vertex="1" parent="1">
+          <mxGeometry x="380" y="430" width="70" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="k7FDMH42Ti9SfzF2SLy9-42" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=16;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="110" width="350" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="k7FDMH42Ti9SfzF2SLy9-40" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=16;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="110" width="370" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="k7FDMH42Ti9SfzF2SLy9-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=15;fontColor=#009900;" edge="1" parent="1" source="k7FDMH42Ti9SfzF2SLy9-4" target="k7FDMH42Ti9SfzF2SLy9-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k7FDMH42Ti9SfzF2SLy9-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;fontColor=#009900;" edge="1" parent="1" source="k7FDMH42Ti9SfzF2SLy9-4" target="k7FDMH42Ti9SfzF2SLy9-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="120" y="175" />
+              <mxPoint x="120" y="135" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k7FDMH42Ti9SfzF2SLy9-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=15;fontColor=#009900;" edge="1" parent="1" source="k7FDMH42Ti9SfzF2SLy9-4" target="k7FDMH42Ti9SfzF2SLy9-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="120" y="175" />
+              <mxPoint x="120" y="215" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k7FDMH42Ti9SfzF2SLy9-4" value="野外样方采样" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;gradientColor=#7ea6e0;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="70" y="120" width="40" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="k7FDMH42Ti9SfzF2SLy9-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;fontColor=#009900;" edge="1" parent="1" source="k7FDMH42Ti9SfzF2SLy9-5" target="k7FDMH42Ti9SfzF2SLy9-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="215" />
+              <mxPoint x="240" y="175" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k7FDMH42Ti9SfzF2SLy9-5" value="光谱匹配" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;gradientColor=#ffd966;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="133" y="200" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k7FDMH42Ti9SfzF2SLy9-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="k7FDMH42Ti9SfzF2SLy9-7" target="k7FDMH42Ti9SfzF2SLy9-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k7FDMH42Ti9SfzF2SLy9-7" value="特征参量" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;gradientColor=#ffd966;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="133" y="160" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k7FDMH42Ti9SfzF2SLy9-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;fontColor=#009900;" edge="1" parent="1" source="k7FDMH42Ti9SfzF2SLy9-8" target="k7FDMH42Ti9SfzF2SLy9-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="135" />
+              <mxPoint x="240" y="175" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k7FDMH42Ti9SfzF2SLy9-8" value="敏感度分析" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;gradientColor=#ffd966;" vertex="1" parent="1">
+          <mxGeometry x="133" y="120" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k7FDMH42Ti9SfzF2SLy9-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="k7FDMH42Ti9SfzF2SLy9-9" target="k7FDMH42Ti9SfzF2SLy9-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k7FDMH42Ti9SfzF2SLy9-9" value="翅碱&lt;br&gt;蓬光&lt;br&gt;谱特&lt;br&gt;征分&lt;br&gt;析" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=16;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="260" y="120" width="50" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="k7FDMH42Ti9SfzF2SLy9-10" value="翅碱&lt;br&gt;蓬植&lt;br&gt;被指&lt;br&gt;数构&lt;br&gt;建" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=16;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="330" y="120" width="50" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="k7FDMH42Ti9SfzF2SLy9-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="k7FDMH42Ti9SfzF2SLy9-16" target="k7FDMH42Ti9SfzF2SLy9-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="225" y="290" />
+              <mxPoint x="103" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k7FDMH42Ti9SfzF2SLy9-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=16;" edge="1" parent="1" source="k7FDMH42Ti9SfzF2SLy9-16" target="k7FDMH42Ti9SfzF2SLy9-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k7FDMH42Ti9SfzF2SLy9-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="k7FDMH42Ti9SfzF2SLy9-16" target="k7FDMH42Ti9SfzF2SLy9-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="225" y="290" />
+              <mxPoint x="347" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k7FDMH42Ti9SfzF2SLy9-16" value="GF-1 WFV影像" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fontSize=16;size=0.08888888888888889;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="150" y="240" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k7FDMH42Ti9SfzF2SLy9-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=16;" edge="1" parent="1" source="k7FDMH42Ti9SfzF2SLy9-17" target="k7FDMH42Ti9SfzF2SLy9-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k7FDMH42Ti9SfzF2SLy9-17" value="翅碱蓬植被指数" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;gradientColor=#ffd966;" vertex="1" parent="1">
+          <mxGeometry x="150" y="302" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k7FDMH42Ti9SfzF2SLy9-29" value="翅碱蓬提取效果对比分析" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=16;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="125" y="362" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k7FDMH42Ti9SfzF2SLy9-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=16;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="k7FDMH42Ti9SfzF2SLy9-30" target="k7FDMH42Ti9SfzF2SLy9-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="103" y="350" />
+              <mxPoint x="225" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k7FDMH42Ti9SfzF2SLy9-30" value="NDVI" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;gradientColor=#ffd966;" vertex="1" parent="1">
+          <mxGeometry x="70" y="302" width="66" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k7FDMH42Ti9SfzF2SLy9-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="k7FDMH42Ti9SfzF2SLy9-31" target="k7FDMH42Ti9SfzF2SLy9-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="347" y="350" />
+              <mxPoint x="225" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k7FDMH42Ti9SfzF2SLy9-31" value="SAVI" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;gradientColor=#ffd966;" vertex="1" parent="1">
+          <mxGeometry x="314" y="302" width="66" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k7FDMH42Ti9SfzF2SLy9-39" value="..." style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontSize=16;gradientColor=#ffd966;" vertex="1" parent="1">
+          <mxGeometry x="340" y="350" width="66" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k7FDMH42Ti9SfzF2SLy9-41" value="面向翅碱蓬遥感提取的新型植被指数构建" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontSize=15;gradientColor=#ffd966;fontColor=#660000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="26" y="135" width="36" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="k7FDMH42Ti9SfzF2SLy9-68" value="翅碱蓬生态系统状态综合评估新方法" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontSize=15;gradientColor=#ffd966;fontColor=#004C99;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="408" y="135" width="36" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="k7FDMH42Ti9SfzF2SLy9-69" value="翅碱蓬提取结果" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="447" y="130" width="133" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k7FDMH42Ti9SfzF2SLy9-70" value="周边地物" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="130" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k7FDMH42Ti9SfzF2SLy9-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=15;fontColor=#660000;" edge="1" parent="1" target="k7FDMH42Ti9SfzF2SLy9-70">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="722" y="150" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k7FDMH42Ti9SfzF2SLy9-71" value="监督&lt;br&gt;分类" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;gradientColor=#ffd966;" vertex="1" parent="1">
+          <mxGeometry x="697" y="120" width="43" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k7FDMH42Ti9SfzF2SLy9-78" value="翅碱蓬生态系统时空演化分析" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=16;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="447" y="204" width="233" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k7FDMH42Ti9SfzF2SLy9-81" value="生态系&lt;br&gt;统质量" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=16;gradientColor=#ea6b66;" vertex="1" parent="1">
+          <mxGeometry x="447" y="281" width="66" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="k7FDMH42Ti9SfzF2SLy9-83" value="生态服&lt;br&gt;务功能" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=16;gradientColor=#ea6b66;" vertex="1" parent="1">
+          <mxGeometry x="530.5" y="281" width="66" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="k7FDMH42Ti9SfzF2SLy9-86" value="生态系统格局" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=16;gradientColor=#ea6b66;" vertex="1" parent="1">
+          <mxGeometry x="614" y="281" width="66" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="k7FDMH42Ti9SfzF2SLy9-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;fontColor=#660000;" edge="1" parent="1" source="k7FDMH42Ti9SfzF2SLy9-87" target="k7FDMH42Ti9SfzF2SLy9-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k7FDMH42Ti9SfzF2SLy9-87" value="景观&lt;br&gt;格局&lt;br&gt;指数" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;gradientColor=#ffd966;" vertex="1" parent="1">
+          <mxGeometry x="697" y="273" width="43" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="k7FDMH42Ti9SfzF2SLy9-91" value="" style="endArrow=none;html=1;fontSize=15;fontColor=#660000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="k7FDMH42Ti9SfzF2SLy9-81" target="k7FDMH42Ti9SfzF2SLy9-83">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="467" y="326" as="sourcePoint" />
+            <mxPoint x="517" y="276" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k7FDMH42Ti9SfzF2SLy9-93" value="" style="endArrow=none;html=1;fontSize=15;fontColor=#660000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="k7FDMH42Ti9SfzF2SLy9-83" target="k7FDMH42Ti9SfzF2SLy9-86">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="607" y="306" as="sourcePoint" />
+            <mxPoint x="617" y="305.83000000000004" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k7FDMH42Ti9SfzF2SLy9-98" value="潮间带翅碱蓬生态系统&lt;br&gt;综合评估新方法" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=16;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="447" y="362" width="233" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k7FDMH42Ti9SfzF2SLy9-99" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=15;fontColor=#660000;exitX=0.919;exitY=0.984;exitDx=0;exitDy=0;exitPerimeter=0;gradientColor=#b3b3b3;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="563.2100000000003" y="331" as="sourcePoint" />
+            <mxPoint x="563.45" y="362" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k7FDMH42Ti9SfzF2SLy9-101" value="" style="endArrow=none;html=1;fontSize=15;fontColor=#660000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="k7FDMH42Ti9SfzF2SLy9-69" target="k7FDMH42Ti9SfzF2SLy9-70">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="597" y="150" as="sourcePoint" />
+            <mxPoint x="437" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k7FDMH42Ti9SfzF2SLy9-105" value="翅&lt;br&gt;碱&lt;br&gt;蓬&lt;br&gt;生&lt;br&gt;长&lt;br&gt;预&lt;br&gt;测&lt;br&gt;模&lt;br&gt;拟" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontSize=15;gradientColor=#ffd966;fontColor=#009900;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="26" y="434" width="36" height="192" as="geometry" />
+        </mxCell>
+        <mxCell id="k7FDMH42Ti9SfzF2SLy9-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=15;fontColor=#009900;" edge="1" parent="1" source="k7FDMH42Ti9SfzF2SLy9-7" target="k7FDMH42Ti9SfzF2SLy9-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k7FDMH42Ti9SfzF2SLy9-129" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=15;fontColor=#660000;exitX=0.5;exitY=1;exitDx=0;exitDy=0;gradientColor=#b3b3b3;fillColor=#f5f5f5;strokeColor=#666666;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="k7FDMH42Ti9SfzF2SLy9-78" target="k7FDMH42Ti9SfzF2SLy9-83">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="571.6600000000004" y="250" as="sourcePoint" />
+            <mxPoint x="571.9000000000002" y="281" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k7FDMH42Ti9SfzF2SLy9-132" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=15;fontColor=#660000;gradientColor=#b3b3b3;fillColor=#f5f5f5;strokeColor=#666666;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="563" y="170" as="sourcePoint" />
+            <mxPoint x="563.21" y="204" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k7FDMH42Ti9SfzF2SLy9-134" value="翅碱蓬-光滩多稳态理论验证" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="434" width="80" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="k7FDMH42Ti9SfzF2SLy9-135" value="翅碱蓬-光滩演化状态评估" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="535" width="80" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="k7FDMH42Ti9SfzF2SLy9-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;fontColor=#009900;" edge="1" parent="1" source="k7FDMH42Ti9SfzF2SLy9-136" target="k7FDMH42Ti9SfzF2SLy9-134">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="150" y="455" />
+              <mxPoint x="150" y="479" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k7FDMH42Ti9SfzF2SLy9-136" value="DEM" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;gradientColor=#ffd966;" vertex="1" parent="1">
+          <mxGeometry x="70" y="444" width="66" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k7FDMH42Ti9SfzF2SLy9-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;fontColor=#009900;" edge="1" parent="1" source="k7FDMH42Ti9SfzF2SLy9-140" target="k7FDMH42Ti9SfzF2SLy9-134">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="150" y="495" />
+              <mxPoint x="150" y="479" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k7FDMH42Ti9SfzF2SLy9-140" value="NDVI" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;gradientColor=#ffd966;" vertex="1" parent="1">
+          <mxGeometry x="70" y="484" width="66" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k7FDMH42Ti9SfzF2SLy9-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=15;fontColor=#009900;" edge="1" parent="1" source="k7FDMH42Ti9SfzF2SLy9-140" target="k7FDMH42Ti9SfzF2SLy9-140">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k7FDMH42Ti9SfzF2SLy9-152" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;fontColor=#009900;" edge="1" parent="1" source="k7FDMH42Ti9SfzF2SLy9-145" target="k7FDMH42Ti9SfzF2SLy9-135">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k7FDMH42Ti9SfzF2SLy9-145" value="翅碱蓬驱动&lt;br&gt;分析" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;gradientColor=#ffd966;" vertex="1" parent="1">
+          <mxGeometry x="76" y="540" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="k7FDMH42Ti9SfzF2SLy9-153" value="Delft 3D水动力模型" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=16;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="286" y="480" width="60" height="89" as="geometry" />
+        </mxCell>
+        <mxCell id="k7FDMH42Ti9SfzF2SLy9-167" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;fontColor=#009900;" edge="1" parent="1" source="k7FDMH42Ti9SfzF2SLy9-154" target="k7FDMH42Ti9SfzF2SLy9-153">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="342" y="590" />
+              <mxPoint x="316" y="590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k7FDMH42Ti9SfzF2SLy9-154" value="流向" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;gradientColor=#ffd966;" vertex="1" parent="1">
+          <mxGeometry x="321" y="596" width="48" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k7FDMH42Ti9SfzF2SLy9-170" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=15;fontColor=#009900;" edge="1" parent="1" source="k7FDMH42Ti9SfzF2SLy9-155" target="k7FDMH42Ti9SfzF2SLy9-153">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="283" y="590" />
+              <mxPoint x="316" y="590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k7FDMH42Ti9SfzF2SLy9-155" value="流速" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;gradientColor=#ffd966;" vertex="1" parent="1">
+          <mxGeometry x="263" y="596" width="46" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k7FDMH42Ti9SfzF2SLy9-172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;fontColor=#009900;" edge="1" parent="1" source="k7FDMH42Ti9SfzF2SLy9-156" target="k7FDMH42Ti9SfzF2SLy9-153">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k7FDMH42Ti9SfzF2SLy9-156" value="水深" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;gradientColor=#ffd966;" vertex="1" parent="1">
+          <mxGeometry x="291.5" y="430" width="49" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k7FDMH42Ti9SfzF2SLy9-173" value="最大&lt;br&gt;流速" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;gradientColor=#ffd966;" vertex="1" parent="1">
+          <mxGeometry x="386" y="441" width="60" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="k7FDMH42Ti9SfzF2SLy9-174" value="累积淹没时长" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;gradientColor=#ffd966;" vertex="1" parent="1">
+          <mxGeometry x="386" y="498" width="59" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="k7FDMH42Ti9SfzF2SLy9-175" value="水位" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;gradientColor=#ffd966;" vertex="1" parent="1">
+          <mxGeometry x="386.5" y="568" width="59" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="k7FDMH42Ti9SfzF2SLy9-177" value="NDVI变化量" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=15;gradientColor=#ffd966;" vertex="1" parent="1">
+          <mxGeometry x="490" y="436" width="96.5" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="k7FDMH42Ti9SfzF2SLy9-178" value="DEM" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=15;gradientColor=#ffd966;" vertex="1" parent="1">
+          <mxGeometry x="490" y="466" width="96.5" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="k7FDMH42Ti9SfzF2SLy9-179" value="平均流速" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=15;gradientColor=#ffd966;" vertex="1" parent="1">
+          <mxGeometry x="490" y="498" width="96.5" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="k7FDMH42Ti9SfzF2SLy9-181" value="最大流速" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=15;gradientColor=#ffd966;" vertex="1" parent="1">
+          <mxGeometry x="490" y="528" width="96.5" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="k7FDMH42Ti9SfzF2SLy9-182" value="累积淹没时长" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=15;gradientColor=#ffd966;" vertex="1" parent="1">
+          <mxGeometry x="490" y="560" width="96.5" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="k7FDMH42Ti9SfzF2SLy9-183" value="平均水位" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=15;gradientColor=#ffd966;" vertex="1" parent="1">
+          <mxGeometry x="490" y="594" width="96.5" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="k7FDMH42Ti9SfzF2SLy9-186" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;fontSize=15;fontColor=#009900;dashPattern=1 2;" vertex="1" parent="1">
+          <mxGeometry x="480" y="430" width="120" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="k7FDMH42Ti9SfzF2SLy9-187" value="基于随机森林的翅碱蓬生长模拟模型构建" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=16;gradientColor=#ea6b66;" vertex="1" parent="1">
+          <mxGeometry x="630" y="430" width="39" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="k7FDMH42Ti9SfzF2SLy9-188" value="翅碱蓬生长情景预测模拟" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e6d0de;strokeColor=#996185;fontSize=16;gradientColor=#d5739d;" vertex="1" parent="1">
+          <mxGeometry x="699" y="430" width="39" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="k7FDMH42Ti9SfzF2SLy9-189" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=15;fontColor=#009900;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;gradientColor=#b3b3b3;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1" source="k7FDMH42Ti9SfzF2SLy9-176" target="k7FDMH42Ti9SfzF2SLy9-186">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="450" as="sourcePoint" />
+            <mxPoint x="530" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k7FDMH42Ti9SfzF2SLy9-191" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=15;fontColor=#009900;entryX=0;entryY=0.5;entryDx=0;entryDy=0;gradientColor=#b3b3b3;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1" target="k7FDMH42Ti9SfzF2SLy9-176">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="346" y="530.0799999999999" as="sourcePoint" />
+            <mxPoint x="376" y="529.91" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k7FDMH42Ti9SfzF2SLy9-192" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=15;fontColor=#009900;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;gradientColor=#b3b3b3;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="529.6600000000001" as="sourcePoint" />
+            <mxPoint x="630" y="529.6600000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k7FDMH42Ti9SfzF2SLy9-193" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=15;fontColor=#009900;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;gradientColor=#b3b3b3;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="669" y="529.6600000000001" as="sourcePoint" />
+            <mxPoint x="699" y="529.6600000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
