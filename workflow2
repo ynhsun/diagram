@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-06-03T00:23:54.998Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="86aET22Qb4SrdCOAE7Ja" version="13.1.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-14T02:32:13.144Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="iEc9j9jNLSuZ4pYnY3xG" version="14.1.9" type="github">
   <diagram id="3mYn-KUIjPWspA06s3v-" name="Page-1">
-    <mxGraphModel dx="1303" dy="647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -68,7 +68,7 @@
         <mxCell id="FcvpWWCyuCvYt9JoVnO3-19" value="Training Samples&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="414" y="350" width="136" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_d1I5vKHadQsXhkup8X1-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;" parent="1" source="FcvpWWCyuCvYt9JoVnO3-59" edge="1" target="FcvpWWCyuCvYt9JoVnO3-67">
+        <mxCell id="_d1I5vKHadQsXhkup8X1-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;" parent="1" source="FcvpWWCyuCvYt9JoVnO3-59" target="FcvpWWCyuCvYt9JoVnO3-67" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="220" y="520" as="targetPoint" />
           </mxGeometry>
@@ -90,7 +90,7 @@
             <mxPoint x="220" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Dq8BbKwAGPSBVyXCPbAN-5" value="&lt;span style=&quot;font-size: 16px&quot;&gt;Estinamtor&lt;/span&gt;" style="shape=card;whiteSpace=wrap;html=1;size=14;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Times New Roman;" parent="1" vertex="1">
+        <mxCell id="Dq8BbKwAGPSBVyXCPbAN-5" value="&lt;span style=&quot;font-size: 16px&quot;&gt;Estimator&lt;/span&gt;" style="shape=card;whiteSpace=wrap;html=1;size=14;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="233" y="420" width="124" height="50" as="geometry" />
         </mxCell>
       </root>
